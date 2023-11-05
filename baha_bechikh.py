@@ -101,7 +101,7 @@ if __name__ == "__main__":
         elif choix == '2':
             authentifier()
         elif choix == '3':
-            print("Au revoir!")
+            print("bye")
             break
         else:
-            print("Choix invalide. Réessayez.")
+            print("Choix invalide")
