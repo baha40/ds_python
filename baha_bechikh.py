@@ -212,7 +212,7 @@ if __name__ == "__main__":
         elif choix == '2':
             authentifier_utilisateur()
         elif choix == '3':
-            print("Au revoir!")
+            print("Quitter")
             break
         else:
             print("Option invalide")
